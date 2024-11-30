@@ -1,0 +1,7 @@
+streamlit
+fastembed
+faiss-cpu
+groq
+PyPDF2
+numpy 
+python-dotenv
